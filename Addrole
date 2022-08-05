@@ -1,0 +1,3 @@
+Installing the Remote Desktop Services Roles on Windows Server 2012 Log on to the Domain Controller, and in Server Manager right-click the All-Servers node and add the second server using the Add Servers command (or select the All-Servers node, click Manage and click Add Servers). Now that all servers needed in this deployment scenario are present, click Manage, and click Add Roles & Features.
+Before you begin Click Next.
+Select Installation Type Select Remote Desktop Services installation. Click Next.
